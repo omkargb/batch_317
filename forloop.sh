@@ -4,4 +4,5 @@ do
 	echo $file
 	echo "file name $file"
 	echo "local changes done"
+	echo "remote changes done"
 done
